@@ -1,2 +1,3 @@
-# How to install Kopitore
-Kopitore #EarnWhileYouSleep | kopitore.com
+# Kopitore.com #EarnWhileYouSleep
+
+<img src="https://file.kopitore.com/img/github.jpg" />
